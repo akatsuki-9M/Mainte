@@ -25,10 +25,10 @@ html {
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
 
-  @media (min-width: 320px) {
+  @media (min-width: 323px) {
     font-size: 14px;
   }
-  @media (min-width: 768px) {
+  @media (min-width: 468px) {
     font-size: 15px;
   }
   @media (min-width: 1024px) {
@@ -40,7 +40,7 @@ html {
   @media (min-width: 1800px) {
     font-size: 20px;
   }
-  @media (min-width: 2000px) {
+  @media (min-width: 1000px) {
     font-size: 22px;
   }
 }
